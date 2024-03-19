@@ -96,7 +96,7 @@
 		B6B813D12B9DE0C70059DA85 = {
 			isa = PBXGroup;
 			children = (
-				B6B813DC2B9DE0C70059DA85 /* TinkofCalculator */,
+				B6B813DC2B9DE0C70059DA85 /* TinkoffCalculator */,
 				B646DB572BA96C6700661C9F /* TinkoffCalculatorTests */,
 				B646DB642BA96CA800661C9F /* TinkoffCalculatorUITests */,
 				B6B813DB2B9DE0C70059DA85 /* Products */,
@@ -113,7 +113,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B6B813DC2B9DE0C70059DA85 /* TinkofCalculator */ = {
+		B6B813DC2B9DE0C70059DA85 /* TinkoffCalculator */ = {
 			isa = PBXGroup;
 			children = (
 				B6B813DD2B9DE0C70059DA85 /* AppDelegate.swift */,
@@ -124,7 +124,7 @@
 				B6B813E82B9DE0CB0059DA85 /* LaunchScreen.storyboard */,
 				B6B813EB2B9DE0CB0059DA85 /* Info.plist */,
 			);
-			path = TinkofCalculator;
+			path = TinkoffCalculator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
