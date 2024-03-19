@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B6B813DA2B9DE0C70059DA85 /* TinkofCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TinkofCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6B813DA2B9DE0C70059DA85 /* TinkoffCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TinkoffCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6B813DD2B9DE0C70059DA85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B6B813DF2B9DE0C70059DA85 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B6B813E12B9DE0C70059DA85 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		B6B813DB2B9DE0C70059DA85 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B6B813DA2B9DE0C70059DA85 /* TinkofCalculator.app */,
+				B6B813DA2B9DE0C70059DA85 /* TinkoffCalculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B6B813D92B9DE0C70059DA85 /* TinkofCalculator */ = {
+		B6B813D92B9DE0C70059DA85 /* TinkoffCalculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B6B813EE2B9DE0CB0059DA85 /* Build configuration list for PBXNativeTarget "TinkofCalculator" */;
+			buildConfigurationList = B6B813EE2B9DE0CB0059DA85 /* Build configuration list for PBXNativeTarget "TinkoffCalculator" */;
 			buildPhases = (
 				B6B813D62B9DE0C70059DA85 /* Sources */,
 				B6B813D72B9DE0C70059DA85 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = TinkofCalculator;
+			name = TinkoffCalculator;
 			productName = TinkofCalculator;
-			productReference = B6B813DA2B9DE0C70059DA85 /* TinkofCalculator.app */;
+			productReference = B6B813DA2B9DE0C70059DA85 /* TinkoffCalculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B6B813D52B9DE0C70059DA85 /* Build configuration list for PBXProject "TinkofCalculator" */;
+			buildConfigurationList = B6B813D52B9DE0C70059DA85 /* Build configuration list for PBXProject "TinkoffCalculator" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B6B813D92B9DE0C70059DA85 /* TinkofCalculator */,
+				B6B813D92B9DE0C70059DA85 /* TinkoffCalculator */,
 			);
 		};
 /* End PBXProject section */
@@ -344,7 +344,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B6B813D52B9DE0C70059DA85 /* Build configuration list for PBXProject "TinkofCalculator" */ = {
+		B6B813D52B9DE0C70059DA85 /* Build configuration list for PBXProject "TinkoffCalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B6B813EC2B9DE0CB0059DA85 /* Debug */,
@@ -353,7 +353,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B6B813EE2B9DE0CB0059DA85 /* Build configuration list for PBXNativeTarget "TinkofCalculator" */ = {
+		B6B813EE2B9DE0CB0059DA85 /* Build configuration list for PBXNativeTarget "TinkoffCalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B6B813EF2B9DE0CB0059DA85 /* Debug */,
