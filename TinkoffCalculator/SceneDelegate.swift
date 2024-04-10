@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  TinkofCalculator
+//  TinkoffCalculator
 //
 //  Created by Sandra on 10.03.2024.
 //
