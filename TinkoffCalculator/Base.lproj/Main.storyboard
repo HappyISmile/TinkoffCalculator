@@ -8,16 +8,16 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--й-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="TinkoffCalculator" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" userLabel="й" customClass="ViewController" customModule="TinkoffCalculator" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dfG-UJ-iR3">
-                                <rect key="frame" x="0.0" y="756" width="103.5" height="106"/>
+                                <rect key="frame" x="0.0" y="369" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -28,7 +28,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gsP-gG-vet">
-                                <rect key="frame" x="103.5" y="756" width="207" height="106"/>
+                                <rect key="frame" x="103.5" y="369" width="207" height="48"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -39,7 +39,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lvh-df-2AH">
-                                <rect key="frame" x="310.5" y="756" width="103.5" height="106"/>
+                                <rect key="frame" x="310.5" y="369" width="103.5" height="48"/>
                                 <color key="backgroundColor" systemColor="systemBlueColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -50,7 +50,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JLo-In-AO5">
-                                <rect key="frame" x="0.0" y="650.5" width="103.5" height="105.5"/>
+                                <rect key="frame" x="0.0" y="321" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -61,7 +61,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bzt-f4-lqL">
-                                <rect key="frame" x="103.5" y="650.5" width="103.5" height="105.5"/>
+                                <rect key="frame" x="103.5" y="321" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -72,7 +72,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jE0-eP-MOI">
-                                <rect key="frame" x="207" y="650.5" width="103.5" height="105.5"/>
+                                <rect key="frame" x="207" y="321" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -83,7 +83,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YYX-08-K9o">
-                                <rect key="frame" x="310.5" y="650.5" width="103.5" height="105.5"/>
+                                <rect key="frame" x="310.5" y="321" width="103.5" height="48"/>
                                 <color key="backgroundColor" systemColor="systemBlueColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -94,7 +94,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EVo-Vl-O8a">
-                                <rect key="frame" x="0.0" y="544.5" width="103.5" height="106"/>
+                                <rect key="frame" x="0.0" y="273" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -105,7 +105,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VxD-lY-edd">
-                                <rect key="frame" x="103.5" y="544.5" width="103.5" height="106"/>
+                                <rect key="frame" x="103.5" y="273" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -116,7 +116,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AMh-bU-dLK">
-                                <rect key="frame" x="207" y="544.5" width="103.5" height="106"/>
+                                <rect key="frame" x="207" y="273" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -127,7 +127,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wzI-XR-Jh0">
-                                <rect key="frame" x="310.5" y="544.5" width="103.5" height="106"/>
+                                <rect key="frame" x="310.5" y="273" width="103.5" height="48"/>
                                 <color key="backgroundColor" systemColor="systemBlueColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -138,7 +138,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F5v-E1-e0Q">
-                                <rect key="frame" x="0.0" y="438.5" width="103.5" height="106"/>
+                                <rect key="frame" x="0.0" y="225" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -149,7 +149,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oUX-GD-kt0">
-                                <rect key="frame" x="103.5" y="438.5" width="103.5" height="106"/>
+                                <rect key="frame" x="103.5" y="225" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -160,7 +160,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nkc-k2-uUb">
-                                <rect key="frame" x="207" y="438.5" width="103.5" height="106"/>
+                                <rect key="frame" x="207" y="225" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -171,7 +171,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2rb-0l-3QA">
-                                <rect key="frame" x="310.5" y="438.5" width="103.5" height="106"/>
+                                <rect key="frame" x="310.5" y="225" width="103.5" height="48"/>
                                 <color key="backgroundColor" systemColor="systemBlueColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -182,7 +182,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JHl-LR-11l">
-                                <rect key="frame" x="0.0" y="333" width="310.5" height="105.5"/>
+                                <rect key="frame" x="207" y="177" width="103.5" height="48"/>
                                 <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -193,7 +193,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ivx-iS-EGc">
-                                <rect key="frame" x="310.5" y="333" width="103.5" height="106"/>
+                                <rect key="frame" x="310.5" y="177" width="103.5" height="48"/>
                                 <color key="backgroundColor" systemColor="systemBlueColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -204,95 +204,101 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="30" translatesAutoresizingMaskIntoConstraints="NO" id="llp-CG-2GT">
-                                <rect key="frame" x="20" y="242" width="374" height="72"/>
+                                <rect key="frame" x="20" y="85" width="374" height="72"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="60"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kxF-3S-r2S">
+                                <rect key="frame" x="0.0" y="177" width="103.5" height="48"/>
+                                <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <action selector="clearButtonPressed" destination="BYZ-38-t0r" eventType="touchUpInside" id="zuc-cy-5kS"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemGray5Color"/>
                         <constraints>
                             <constraint firstItem="EVo-Vl-O8a" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="0WD-PH-VMI"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="F5v-E1-e0Q" secondAttribute="trailing" symbolic="YES" id="1GG-Kg-sRd"/>
+                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="bottom" secondItem="2rb-0l-3QA" secondAttribute="top" id="0h2-9o-bJr"/>
                             <constraint firstItem="VxD-lY-edd" firstAttribute="leading" secondItem="EVo-Vl-O8a" secondAttribute="trailing" id="2CK-Hi-DLX"/>
                             <constraint firstItem="VxD-lY-edd" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="3Px-vB-pnX"/>
+                            <constraint firstItem="JHl-LR-11l" firstAttribute="bottom" secondItem="nkc-k2-uUb" secondAttribute="top" id="3Tv-OS-JIj"/>
                             <constraint firstItem="wzI-XR-Jh0" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="4cd-0d-iqa"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="llp-CG-2GT" secondAttribute="trailing" constant="20" id="7BI-gh-Akm"/>
-                            <constraint firstItem="gsP-gG-vet" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="7FZ-iC-8si"/>
                             <constraint firstItem="JLo-In-AO5" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="7JX-9b-n6W"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="Ivx-iS-EGc" secondAttribute="trailing" symbolic="YES" id="7f5-4j-bWV"/>
                             <constraint firstItem="jE0-eP-MOI" firstAttribute="leading" secondItem="bzt-f4-lqL" secondAttribute="trailing" id="7qe-v3-Spr"/>
-                            <constraint firstItem="VxD-lY-edd" firstAttribute="top" secondItem="oUX-GD-kt0" secondAttribute="bottom" id="872-pc-Kwu"/>
-                            <constraint firstItem="JLo-In-AO5" firstAttribute="top" secondItem="EVo-Vl-O8a" secondAttribute="bottom" id="8dc-lI-f9H"/>
+                            <constraint firstItem="JLo-In-AO5" firstAttribute="bottom" secondItem="dfG-UJ-iR3" secondAttribute="top" id="8dc-lI-f9H"/>
                             <constraint firstItem="F5v-E1-e0Q" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="AHf-ZT-fx5"/>
                             <constraint firstItem="gsP-gG-vet" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="Aao-41-hUh"/>
                             <constraint firstItem="oUX-GD-kt0" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="AwG-XD-uwe"/>
-                            <constraint firstItem="oUX-GD-kt0" firstAttribute="leading" secondItem="F5v-E1-e0Q" secondAttribute="trailing" id="BYI-Mv-hPx"/>
                             <constraint firstItem="Lvh-df-2AH" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="CpK-Hp-maj"/>
                             <constraint firstItem="wzI-XR-Jh0" firstAttribute="leading" secondItem="AMh-bU-dLK" secondAttribute="trailing" id="DSL-Ur-Dgk"/>
                             <constraint firstItem="AMh-bU-dLK" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="DdO-61-Yfs"/>
-                            <constraint firstItem="nkc-k2-uUb" firstAttribute="leading" secondItem="oUX-GD-kt0" secondAttribute="trailing" id="F4q-AT-ajf"/>
+                            <constraint firstItem="VxD-lY-edd" firstAttribute="bottom" secondItem="bzt-f4-lqL" secondAttribute="top" id="Ead-LV-SBP"/>
                             <constraint firstItem="oUX-GD-kt0" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="Fpd-ni-yaa"/>
-                            <constraint firstItem="AMh-bU-dLK" firstAttribute="top" secondItem="nkc-k2-uUb" secondAttribute="bottom" id="Fw4-I0-Sd4"/>
+                            <constraint firstItem="AMh-bU-dLK" firstAttribute="bottom" secondItem="jE0-eP-MOI" secondAttribute="top" id="Fw4-I0-Sd4"/>
                             <constraint firstItem="jE0-eP-MOI" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="GOy-Ti-gqn"/>
                             <constraint firstItem="Lvh-df-2AH" firstAttribute="leading" secondItem="gsP-gG-vet" secondAttribute="trailing" id="GcG-nb-0HS"/>
+                            <constraint firstItem="nkc-k2-uUb" firstAttribute="bottom" secondItem="AMh-bU-dLK" secondAttribute="top" id="I9R-ey-ZP5"/>
                             <constraint firstItem="bzt-f4-lqL" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="ID6-fy-cYe"/>
                             <constraint firstItem="dfG-UJ-iR3" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="IYZ-hA-AN0"/>
-                            <constraint firstItem="jE0-eP-MOI" firstAttribute="top" secondItem="AMh-bU-dLK" secondAttribute="bottom" id="J2G-kM-bPR"/>
-                            <constraint firstItem="2rb-0l-3QA" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.25" id="JcP-ha-HgQ"/>
-                            <constraint firstItem="JHl-LR-11l" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="K0r-6x-cuF"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="AMh-bU-dLK" secondAttribute="trailing" symbolic="YES" id="KGI-qK-Rlg"/>
-                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="top" secondItem="llp-CG-2GT" secondAttribute="bottom" constant="19" id="L7D-e7-ree"/>
+                            <constraint firstItem="jE0-eP-MOI" firstAttribute="bottom" secondItem="gsP-gG-vet" secondAttribute="top" id="J2G-kM-bPR"/>
+                            <constraint firstItem="2rb-0l-3QA" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="JcP-ha-HgQ"/>
+                            <constraint firstItem="kxF-3S-r2S" firstAttribute="bottom" secondItem="F5v-E1-e0Q" secondAttribute="top" id="KUy-oK-LEd"/>
+                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="top" secondItem="llp-CG-2GT" secondAttribute="bottom" constant="20" id="L7D-e7-ree"/>
+                            <constraint firstItem="kxF-3S-r2S" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="Lgy-Cx-zXz"/>
                             <constraint firstItem="nkc-k2-uUb" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="Ljo-xo-i5H"/>
                             <constraint firstItem="VxD-lY-edd" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="N3f-TY-cCI"/>
-                            <constraint firstItem="gsP-gG-vet" firstAttribute="top" secondItem="bzt-f4-lqL" secondAttribute="bottom" id="Naa-3e-AYt"/>
                             <constraint firstItem="Lvh-df-2AH" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="NuV-Zg-Fxr"/>
-                            <constraint firstItem="JHl-LR-11l" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="PV3-kD-aII"/>
                             <constraint firstItem="JLo-In-AO5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Puw-5Y-MXm"/>
-                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.13" constant="-10.480000000000004" id="QM3-Dv-3pU"/>
+                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="QM3-Dv-3pU"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Lvh-df-2AH" secondAttribute="bottom" id="RKV-jK-2vL"/>
-                            <constraint firstItem="bzt-f4-lqL" firstAttribute="top" secondItem="VxD-lY-edd" secondAttribute="bottom" id="SQp-ws-byb"/>
+                            <constraint firstItem="bzt-f4-lqL" firstAttribute="bottom" secondItem="gsP-gG-vet" secondAttribute="top" id="SQp-ws-byb"/>
                             <constraint firstItem="EVo-Vl-O8a" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Sl8-FT-Orj"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="2rb-0l-3QA" secondAttribute="trailing" symbolic="YES" id="TOk-nk-hCV"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="Lvh-df-2AH" secondAttribute="trailing" symbolic="YES" id="Ttk-30-b8b"/>
+                            <constraint firstItem="EVo-Vl-O8a" firstAttribute="bottom" secondItem="JLo-In-AO5" secondAttribute="top" id="T43-yi-vrA"/>
                             <constraint firstItem="YYX-08-K9o" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="U3o-Fw-tjY"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="gsP-gG-vet" secondAttribute="bottom" id="UDN-ax-cPV"/>
+                            <constraint firstItem="VxD-lY-edd" firstAttribute="baseline" secondItem="bzt-f4-lqL" secondAttribute="baseline" constant="-48" id="UTT-HQ-Hz4"/>
+                            <constraint firstItem="JHl-LR-11l" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="kxF-3S-r2S" secondAttribute="trailing" constant="-3" id="Uso-qt-VWl"/>
                             <constraint firstItem="AMh-bU-dLK" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="V2e-zm-XOr"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="wzI-XR-Jh0" secondAttribute="trailing" symbolic="YES" id="WXw-El-Urv"/>
-                            <constraint firstItem="YYX-08-K9o" firstAttribute="top" secondItem="wzI-XR-Jh0" secondAttribute="bottom" id="WZk-vW-tcS"/>
-                            <constraint firstItem="2rb-0l-3QA" firstAttribute="top" secondItem="Ivx-iS-EGc" secondAttribute="bottom" constant="-0.5" id="WkB-iQ-Y53"/>
-                            <constraint firstItem="dfG-UJ-iR3" firstAttribute="top" secondItem="JLo-In-AO5" secondAttribute="bottom" id="YpZ-or-tdY"/>
-                            <constraint firstItem="YYX-08-K9o" firstAttribute="top" secondItem="wzI-XR-Jh0" secondAttribute="bottom" id="ZrT-xn-Ph0"/>
-                            <constraint firstItem="EVo-Vl-O8a" firstAttribute="top" secondItem="F5v-E1-e0Q" secondAttribute="bottom" id="aAj-7v-DLn"/>
+                            <constraint firstItem="YYX-08-K9o" firstAttribute="bottom" secondItem="Lvh-df-2AH" secondAttribute="top" id="WZk-vW-tcS"/>
+                            <constraint firstItem="2rb-0l-3QA" firstAttribute="bottom" secondItem="wzI-XR-Jh0" secondAttribute="top" id="WkB-iQ-Y53"/>
+                            <constraint firstItem="F5v-E1-e0Q" firstAttribute="bottom" secondItem="EVo-Vl-O8a" secondAttribute="top" id="aAj-7v-DLn"/>
+                            <constraint firstItem="oUX-GD-kt0" firstAttribute="leading" secondItem="F5v-E1-e0Q" secondAttribute="trailing" id="aff-oF-NJq"/>
                             <constraint firstItem="YYX-08-K9o" firstAttribute="leading" secondItem="jE0-eP-MOI" secondAttribute="trailing" id="c4M-6K-5Fd"/>
                             <constraint firstItem="jE0-eP-MOI" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="ctl-BN-RBL"/>
+                            <constraint firstItem="kxF-3S-r2S" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="d7Q-8Q-eCa"/>
+                            <constraint firstItem="kxF-3S-r2S" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="eC7-kF-XI1"/>
                             <constraint firstItem="bzt-f4-lqL" firstAttribute="leading" secondItem="JLo-In-AO5" secondAttribute="trailing" id="eFo-KN-IRa"/>
-                            <constraint firstItem="JHl-LR-11l" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.75" id="eHG-iv-Fmt"/>
                             <constraint firstItem="bzt-f4-lqL" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="fA8-k7-DM7"/>
-                            <constraint firstItem="Lvh-df-2AH" firstAttribute="top" secondItem="YYX-08-K9o" secondAttribute="bottom" id="frs-UP-7E8"/>
+                            <constraint firstItem="JHl-LR-11l" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="fCF-O1-Y2i"/>
                             <constraint firstItem="AMh-bU-dLK" firstAttribute="leading" secondItem="VxD-lY-edd" secondAttribute="trailing" id="fte-eH-cJj"/>
+                            <constraint firstItem="nkc-k2-uUb" firstAttribute="leading" secondItem="oUX-GD-kt0" secondAttribute="trailing" id="gfe-Wh-9Dk"/>
                             <constraint firstItem="wzI-XR-Jh0" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="h3x-Mi-q1g"/>
+                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="leading" secondItem="JHl-LR-11l" secondAttribute="trailing" id="hGp-Pk-S9i"/>
                             <constraint firstItem="JLo-In-AO5" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="hxF-1a-ptO"/>
+                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="iwU-Dk-xyU"/>
                             <constraint firstItem="YYX-08-K9o" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="jE5-UA-QmK"/>
+                            <constraint firstItem="oUX-GD-kt0" firstAttribute="bottom" secondItem="VxD-lY-edd" secondAttribute="top" id="kyp-iT-TEr"/>
                             <constraint firstItem="llp-CG-2GT" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="le4-Cv-xrw"/>
-                            <constraint firstItem="2rb-0l-3QA" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.13" constant="-10.480000000000004" id="mU4-VE-JYh"/>
-                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.25" id="mlz-qT-tv7"/>
+                            <constraint firstItem="2rb-0l-3QA" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="mU4-VE-JYh"/>
+                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="mlz-qT-tv7"/>
                             <constraint firstItem="dfG-UJ-iR3" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="moj-8Y-9rH"/>
                             <constraint firstItem="gsP-gG-vet" firstAttribute="leading" secondItem="dfG-UJ-iR3" secondAttribute="trailing" id="n1m-Xp-vSq"/>
-                            <constraint firstItem="Ivx-iS-EGc" firstAttribute="leading" secondItem="JHl-LR-11l" secondAttribute="trailing" id="oBT-EQ-zbc"/>
-                            <constraint firstItem="gsP-gG-vet" firstAttribute="top" secondItem="jE0-eP-MOI" secondAttribute="bottom" id="oRB-NX-LhG"/>
                             <constraint firstItem="nkc-k2-uUb" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="pBc-cc-2WK"/>
-                            <constraint firstItem="wzI-XR-Jh0" firstAttribute="top" secondItem="2rb-0l-3QA" secondAttribute="bottom" id="pKI-Uc-9cE"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="YYX-08-K9o" secondAttribute="trailing" symbolic="YES" id="pX9-EW-TCJ"/>
+                            <constraint firstItem="wzI-XR-Jh0" firstAttribute="bottom" secondItem="YYX-08-K9o" secondAttribute="top" id="pKI-Uc-9cE"/>
                             <constraint firstItem="dfG-UJ-iR3" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="pt0-hf-k5e"/>
-                            <constraint firstItem="YYX-08-K9o" firstAttribute="top" secondItem="wzI-XR-Jh0" secondAttribute="bottom" id="thP-77-EUy"/>
-                            <constraint firstItem="F5v-E1-e0Q" firstAttribute="top" secondItem="JHl-LR-11l" secondAttribute="bottom" id="vr1-0B-ca6"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="llp-CG-2GT" secondAttribute="trailing" constant="20" id="qrV-Vq-ZAl"/>
                             <constraint firstItem="F5v-E1-e0Q" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="vuz-BR-4p1"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="nkc-k2-uUb" secondAttribute="trailing" symbolic="YES" id="w5Z-6C-a9Y"/>
                             <constraint firstItem="EVo-Vl-O8a" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="wgF-t5-FnW"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="dfG-UJ-iR3" secondAttribute="bottom" id="x5l-d5-xiB"/>
                             <constraint firstItem="F5v-E1-e0Q" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="xre-yf-jFr"/>
+                            <constraint firstItem="JHl-LR-11l" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="xyI-Wq-Qu7"/>
                             <constraint firstItem="2rb-0l-3QA" firstAttribute="leading" secondItem="nkc-k2-uUb" secondAttribute="trailing" id="y88-Q3-m95"/>
                             <constraint firstItem="gsP-gG-vet" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.5" id="yVj-cc-c6t"/>
                         </constraints>
