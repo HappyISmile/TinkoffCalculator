@@ -59,7 +59,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func operationButtonPressed(_ sender: UIButton) {
-        guard 
+        guard
             let buttonText = sender.currentTitle,
             let buttonOperation = Operation(rawValue: buttonText)
             else { return }

@@ -32,6 +32,34 @@
 			<key>type</key>
 			<string>bookmark</string>
 		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>Timestamp</key>
+					<string>737399753.263097</string>
+					<key>XcodeLocation</key>
+					<string>{"MemberID":"BYZ-38-t0r"}</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TinkoffCalculator/Base.lproj/Main.storyboard</string>
+					</dict>
+				</dict>
+				<key>type</key>
+				<string>IBDocumentMemberLocation</string>
+			</dict>
+			<key>title</key>
+			<string>й</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
 	</array>
 </dict>
 </plist>
